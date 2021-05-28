@@ -21,7 +21,7 @@
 /* PRE-HOVER DIV to fix spam-open bugs */
 
 .membersWrap-2h-GB4:before {
-    width: 100px;
+    width: 15px;
     content: "";
 }
 
