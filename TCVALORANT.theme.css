@@ -1,7 +1,6 @@
 /**
 * @name TACTICAL VALORANT
-* @author Purple Wizard#0984
-* @redesigned Casual
+* @author Casual
 * @version 1.0
 * @source https://github.com/GoldenLys/BetterDiscord-Elysia
 * @website https://goldenlys.github.io/ThemeGen
@@ -28,7 +27,7 @@
 	--logo: url("https://goldenlys.github.io/ThemeGen/img/ELYSIA.gif");
 	--background: url("https://user-images.githubusercontent.com/84941662/119917527-8d2e2080-bf88-11eb-96ce-08bd1a3aa85f.jpg");
 	--C1: rgb(130, 0, 216);
-	--C2: rgb(0, 225, 255);
+	--C2: rgb(0 0 0);
 	--C3: rgb(0 0 0);
 	--C4: rgb(0 0 0);
 	--C5: rgb(0 0 0);
@@ -40,9 +39,9 @@
 	--ServerColumns: 1;
 
 	/*  STATUSES  */
-	--Online: rgb(0, 255, 136);
-	--Idle: rgb(0, 99, 156);
-	--Unavailable: rgb(228, 15, 0);
+	--Online: rgb(108, 71, 202);
+	--Idle: rgb(196, 234, 154);
+	--Unavailable: rgb(17, 27, 39);
 	--Offline: rgb(90, 95, 100);
 	--StreamingColor: rgb(78, 0, 180);
 
