@@ -502,7 +502,7 @@ body, .preview-2nSL_2, #user-settings.layer-3QrUeG {
 /* PROFILE */
 
 .root-SR8cQa {
-    background: var(--darkgrey);
+    background: rgba(108, 71, 202);
     position: fixed;
     right: 0;
     height: calc(100vh - 60px);
@@ -545,7 +545,7 @@ body, .preview-2nSL_2, #user-settings.layer-3QrUeG {
 
 .wrapper-CU3qI5, .header-2RyJ0Y, .ui-tab-bar-header {
     text-align: center;
-    width: 90%;
+    width: 100%;
     margin-bottom: 2px;
     margin: 0 12px;
     font-size: 12px;
@@ -783,7 +783,7 @@ rect[fill="#f04747"], .role-2irmRk:hover .roleRemoveIcon-2-TeGW path {
 }
 
 .activityHeader-1PExlk {
-    text-align: center;
+    text-align: left;
 }
 
 .guildsError-b7zR5H {
