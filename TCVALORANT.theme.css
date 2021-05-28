@@ -22,11 +22,11 @@
 /*  GENERAL CONFIG  */
 
 :root {
-	--title: "TACTICAL VALORANT";
+	--title: "";
 	--font: "Quicksand", sans-serif;
 	--logo: url("https://goldenlys.github.io/ThemeGen/img/ELYSIA.gif");
 	--background: url("https://user-images.githubusercontent.com/84941662/119917527-8d2e2080-bf88-11eb-96ce-08bd1a3aa85f.jpg");
-	--C1: rgb(130, 0, 216);
+	--C1: rgb(233, 232, 220);
 	--C2: rgb(0 0 0);
 	--C3: rgb(0 0 0);
 	--C4: rgb(0 0 0);
@@ -34,7 +34,7 @@
 	--C6: rgb(0 0 0);
 	--C7: rgb(0 0 0);
 	--C8: rgb(0 0 0);
-	--time: 5s;
+	--time: 0s;
 	--ServerSize: 45px;
 	--ServerColumns: 1;
 
@@ -58,11 +58,11 @@
 	--darkgrey5: rgba(18, 18, 18, .75);
 	--TitleBG: var(--darkgrey5);
 	--ChatBox: var(--darkgrey5);
-	--Sidebar: var(--darkgrey5);
+	--Sidebar: rgba(17, 27, 39);
 	--SendMessage: var(--darkgrey);
-	--HoverMessage: var(--darkgrey5);
-	--Highlighted: var(--grey5);
-	--ActiveBox: rgb(235 235 235);
+	--HoverMessage: rgba(108, 71, 202);
+	--Highlighted: rgba(196, 234, 154);
+	--ActiveBox: rgb(108, 71, 202);
 	
 	/* CUSTOM TEXTS */
 	--JoinUs: "Hey! Wanna have some fun.. Join US !";
@@ -80,7 +80,7 @@
 	--Announcement: "📣";
 	--Stage: "📺";
 	--Community: "purpies";
-	--Watermark: "Made with 💖 by Purple Wizard";
+	--Watermark: "";
 	--EditStatus: "Put another status";
 	--Folders: "📁";
 	--FoldersOpen: "💠";
